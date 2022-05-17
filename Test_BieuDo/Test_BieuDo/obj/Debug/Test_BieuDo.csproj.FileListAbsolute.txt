@@ -1,0 +1,30 @@
+E:\C#\Test_BieuDo\Test_BieuDo\bin\Debug\Test_BieuDo.exe.config
+E:\C#\Test_BieuDo\Test_BieuDo\bin\Debug\Test_BieuDo.exe
+E:\C#\Test_BieuDo\Test_BieuDo\bin\Debug\Test_BieuDo.pdb
+E:\C#\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.csprojResolveAssemblyReference.cache
+E:\C#\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.frmBD.resources
+E:\C#\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.Properties.Resources.resources
+E:\C#\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.csproj.GenerateResource.Cache
+E:\C#\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.exe
+E:\C#\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.pdb
+E:\C#\VD_BD\Test_BieuDo\Test_BieuDo\bin\Debug\Test_BieuDo.exe.config
+E:\C#\VD_BD\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.exe
+E:\C#\VD_BD\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.pdb
+E:\C#\VD_BD\Test_BieuDo\Test_BieuDo\bin\Debug\Test_BieuDo.exe
+E:\C#\VD_BD\Test_BieuDo\Test_BieuDo\bin\Debug\Test_BieuDo.pdb
+E:\C#\VD_BD\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.csprojResolveAssemblyReference.cache
+E:\C#\VD_BD\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.frmBD.resources
+E:\C#\VD_BD\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.Properties.Resources.resources
+E:\C#\VD_BD\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.csproj.GenerateResource.Cache
+D:\New folder\VD_BD\Test_BieuDo\Test_BieuDo\bin\Debug\Test_BieuDo.exe.config
+D:\New folder\VD_BD\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.exe
+D:\New folder\VD_BD\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.pdb
+D:\New folder\VD_BD\Test_BieuDo\Test_BieuDo\bin\Debug\Test_BieuDo.exe
+D:\New folder\VD_BD\Test_BieuDo\Test_BieuDo\bin\Debug\Test_BieuDo.pdb
+D:\New folder\VD_BD\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.csprojResolveAssemblyReference.cache
+D:\New folder\VD_BD\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.frmBD.resources
+D:\New folder\VD_BD\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.Properties.Resources.resources
+D:\New folder\VD_BD\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.csproj.GenerateResource.Cache
+D:\VD_BD\Test_BieuDo\Test_BieuDo\bin\Debug\Test_BieuDo.exe.config
+D:\VD_BD\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.exe
+D:\VD_BD\Test_BieuDo\Test_BieuDo\obj\Debug\Test_BieuDo.pdb
